@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BoatOS</title>
+    <style>
+        body { background: #000; color: #0f0; font-family: monospace; padding: 50px; }
+        h1 { border-bottom: 2px solid #0f0; display: inline-block; }
+    </style>
+</head>
+<body>
+    <h1>BoatOS v1.0</h1>
+    <p>> System initialized...</p>
+    <p>> No watermarks detected.</p>
+</body>
+</html>
