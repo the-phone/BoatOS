@@ -1,3 +1,6 @@
-<button style="background: red; color: black; border: none; padding: 10px; margin: 20px;">
-  Open Files
-</button>
+<!DOCTYPE html>
+<html>
+<body>
+   <h1 style="color:red;">BoatOS is loading...</h1>
+</body>
+</html>
